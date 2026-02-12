@@ -1,1 +1,2 @@
-console.log("vou conseguir ser um programador")
+console.log("oi")
+
